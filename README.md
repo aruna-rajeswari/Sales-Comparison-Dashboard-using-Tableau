@@ -63,7 +63,7 @@ This step prepared the dataset for accurate visualization.
 ---
 
 ### **3. Conducted Regional Sales Analysis**
-Using Tableau, I:
+Using Tableau:
 
 - Filtered the dataset for the two selected regions  
 - Computed KPIs: **total sales**, **average sales**, **growth rates**  
